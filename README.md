@@ -1,4 +1,4 @@
-REMOTE
+Local
 # Quete05-Github
 💪 Challenge
 Crée un nouveau dépôt sur GitHub, en cochant "Initialize this repository with a README".
